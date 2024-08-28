@@ -2,11 +2,11 @@
 header_brand: "EcoF:re"
 header_tagline_paragraph: "Live your best life by spending your time and money mindfully!"
 header_button_more:
-  url: "#get-in-touch"
-  title: "Get in touch"
-header_button_cta:
   url: "#mission"
   title: "Mission statement"
+header_button_cta:
+  url: "#get-in-touch"
+  title: "Get in touch"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
@@ -47,10 +47,8 @@ the limited means available.
 
 ---
 
-# Get in touch
+# Stay in touch
 
-We appreciate your feedback at this early stage of our product.
-Do not hesitate to contact us.
-Please email us at ecofirelife@gmail.com .
+Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
 
-
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
