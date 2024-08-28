@@ -5,7 +5,7 @@ header_button_more:
   url: "#mission"
   title: "Mission statement"
 header_button_cta:
-  url: "#get-in-touch"
+  url: "#contact-form"
   title: "Get in touch"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
