@@ -1,6 +1,6 @@
 ---
 header_brand: "EcoF:re"
-header_tagline_paragraph: "Live your best life by spending your time and money mindfully!"
+header_tagline_paragraph: "Elevate your business to optimize your impact by investing your time and money wisely!"
 header_button_more:
   url: "#mission"
   title: "Mission statement"
@@ -12,7 +12,7 @@ teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20test
 
 # Mission
 
-We exist to empower entrepreneurs to take charge of their business and their
+We exist to empower founders to take charge of their business and their
 lives, by directing their most valuable resources: time & money, towards what
 matters most to them.
 
@@ -30,7 +30,7 @@ with our customers, colleagues, and any other relationship or interaction.
 environment where we have good intent and not cause harm or discomfort to
 others.  We strive to create a considerate and safe environment where trust and
 collaboration can thrive.
-* **Transparency**
+* **Authenticity**
     We believe in open and honest communication. By sharing information freely and
 clearly, we build trust, ensure accountability, and create a culture where
 everyone is informed, engaged, and empowered to contribute to our collective
@@ -44,12 +44,15 @@ progress.
 * **Resourcefulness**
     We emphasize finding effective ways to solve problems or achieve goals with
 the limited means available.
+* **Accountability**
+    We are accountable to each other, our customers, and our future selves &
+    future generations for our decisions and actions.
 
 ---
 
 # Stay in touch
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+We appreciate your feedback at this early stage of our product.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
