@@ -50,9 +50,9 @@ the limited means available.
 
 ---
 
-# Stay in touch
+# Get in touch
 
-We appreciate your feedback at this early stage of our product.
+Tell us about what matters most to you.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
