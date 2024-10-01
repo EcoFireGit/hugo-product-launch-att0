@@ -58,4 +58,3 @@ Tell us about what matters most to you.
 If you prefer to just sign up to our mailing list to stay updated, please sign
 up below.
 
-{{< sign_up >}}
