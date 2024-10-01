@@ -55,6 +55,3 @@ Tell us about what matters most to you.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
-If you prefer to just sign up to our mailing list to stay updated, please sign
-up below.
-
