@@ -1,6 +1,6 @@
 ---
 header_brand: "EcoF:re"
-header_tagline_paragraph: "Elevate your business and amplify your impact by harnessing a single, versatile tool to seamlessly orchestrate your time across all business endeavors, boosting your productivity."
+header_tagline_paragraph: "Elevate your business and amplify your impact by harnessing a single, versatile tool to seamlessly orchestrate your time across all business endeavors, boosting your productivity (Private Beta)."
 header_button_more:
   url: "#mission"
   title: "Mission statement"
